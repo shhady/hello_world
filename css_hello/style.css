@@ -1,0 +1,18 @@
+#first {
+    border: 1px solid red;
+    font-size: 50px;
+    color: black;
+    border-radius: 20px;
+}
+
+#bold{
+    font-weight: bold;
+    font-style: italic;
+}
+
+#black{
+    background-color: black;
+    text-shadow: 40px;
+    color: white;
+    font-family: monospace;
+}
